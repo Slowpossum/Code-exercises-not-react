@@ -1,0 +1,5 @@
+If I could change one thing about my favorite language- currently javascript- it would be how it handles null values. 
+Every time I have to do anything involving a null value I look up what I'm doing, just to be absolutely sure I'm not screwing 
+something up, because some of the weird interactions between null and other types of values can be incredibly obtuse and can potentially 
+hazardous. Most of the time- at least from what I've run into in my limited experience- it stems from not knowing what type of value
+might be pushed into a variable, many cases of which can be simply fixed by just using typescript.
